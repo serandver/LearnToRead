@@ -44,5 +44,9 @@ h1 {
     text-shadow: #f3ea4d 0px 0px 6px;
 }
 #slider {
+    position: absolute;
+    top: 80%;
+    left: 20%;
+    right: 25%;
     text-align: center;
 }
